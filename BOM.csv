@@ -1,0 +1,30 @@
+Item ID,Category,Part,Specification,Qty,Unit,Supplier,Part Number,Unit Cost,Total Cost,Status,Notes
+1,Frame,Aluminum extrusion,2020 profile (cut to frame lengths),12,pcs,TBD,TBD,0,0,To Buy,Confirm exact lengths and count
+2,Frame,Corner brackets,2020-compatible L bracket,24,pcs,TBD,TBD,0,0,To Buy,
+3,Motion,Linear rails or wheel system,Tower motion hardware set,3,sets,TBD,TBD,0,0,To Buy,Choose final tower motion design
+4,Motion,GT2 belt,6 mm width,5,m,TBD,TBD,0,0,To Buy,
+5,Motion,GT2 pulley,20T 5 mm bore,3,pcs,TBD,TBD,0,0,To Buy,
+6,Motion,GT2 idler,Smooth idler pulley,6,pcs,TBD,TBD,0,0,To Buy,
+7,Motion,Stepper motor,NEMA 17 (X/Y/Z towers),3,pcs,TBD,TBD,0,0,To Buy,
+8,Motion,Extruder stepper,NEMA 17 (extruder),1,pcs,TBD,TBD,0,0,To Buy,
+9,Extrusion,Extruder,Titan or equivalent,1,pcs,TBD,TBD,0,0,To Buy,
+10,Extrusion,Hotend,E3D V6 compatible,1,pcs,TBD,TBD,0,0,To Buy,
+11,Thermal,Heater cartridge,24 V 40 W,1,pcs,TBD,TBD,0,0,To Buy,
+12,Thermal,Thermistor,NTC 100K,1,pcs,TBD,TBD,0,0,To Buy,
+13,Cooling,Part cooling fan,5015 blower 24 V,1,pcs,TBD,TBD,0,0,To Buy,
+14,Cooling,Hotend fan,4010 fan 24 V,1,pcs,TBD,TBD,0,0,To Buy,
+15,Electronics,Mainboard,BigTreeTech Manta M8P,1,pcs,TBD,TBD,0,0,To Buy,
+16,Electronics,Stepper drivers,TMC2209 or equivalent,4,pcs,TBD,TBD,0,0,To Buy,Update qty if adding more motors
+17,Electronics,SBC,Raspberry Pi or equivalent,1,pcs,TBD,TBD,0,0,To Buy,
+18,Electronics,Power supply,24 V PSU (sized for heaters + motors),1,pcs,TBD,TBD,0,0,To Buy,
+19,Electronics,Endstops,Mechanical or optical endstop switches,3,pcs,TBD,TBD,0,0,To Buy,
+20,Bed,Build plate,Glass/PEI build surface,1,pcs,TBD,TBD,0,0,To Buy,
+21,Bed,Heated bed,Round bed 24 V (optional),1,pcs,TBD,TBD,0,0,Optional,
+22,Wiring,Wire set,Silicone wire assorted gauges,1,set,TBD,TBD,0,0,To Buy,
+23,Wiring,Connectors,Ferrules/JST/XH set,1,set,TBD,TBD,0,0,To Buy,
+24,Fasteners,Screw assortment,M3/M4 screws nuts washers spacers,1,set,TBD,TBD,0,0,To Buy,
+25,Printed Parts,Printable parts bundle,All STL files in Parts folder,1,bundle,Self print,N/A,0,0,In Progress,Track filament usage separately
+26,Tools,Crimping and assembly tools,Crimper hex keys cutters multimeter,1,set,Existing,N/A,0,0,Have,Only buy missing tools
+27,Spares,Consumables,Nozzles PTFE ties heatshrink,1,set,TBD,TBD,0,0,To Buy,
+28,Documentation,Wiring labels,Heat-resistant cable labels,1,set,TBD,TBD,0,0,To Buy,
+,,TOTAL,,,,,,,0,,
