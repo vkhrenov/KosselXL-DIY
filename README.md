@@ -92,3 +92,7 @@ Planned additions:
 ## License
 
 See `LICENSE` for license details.
+
+## Credits
+
+40mm Fan Guard by Prot0typ1cal https://www.thingiverse.com/thing:1662879
